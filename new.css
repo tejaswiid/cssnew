@@ -1,0 +1,29 @@
+* {
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: pink;
+}
+
+p {
+  color: firebrick;
+}
+
+h1 {
+  color: darkviolet;
+}
+h2 {
+  color: darkviolet;
+}
+
+.recipe-card {
+  box-sizing: border-box;
+  text-align: center;
+  background-color: wheat;
+  border: 30px solid pink;
+}
